@@ -62,3 +62,20 @@ a {
 a:hover {
   color: #70838c;
 }
+
+
+form {
+  color: #373b49;
+  border:0px solid #373b49;
+  display: block;
+  margin: 0 auto;
+  text-align: left;
+  width: 600px;
+}
+
+input.search-query {
+  border:0px solid #373b49;
+  background-color:#373b49;
+  color:#99736e;
+  font-size: 1.2em;
+}
